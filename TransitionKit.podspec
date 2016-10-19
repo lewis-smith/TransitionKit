@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A block-based State Machine API for Objective-C.'
   s.homepage = 'https://github.com/blakewatters/TransitionKit'
   s.authors  = { 'Blake Watters' => 'blakewatters@gmail.com' }
-  s.source   = { :git => 'https://github.com/blakewatters/TransitionKit.git', :tag => s.version.to_s }
+  s.source   = { :git => 'https://github.com/lewis-smith/TransitionKit.git', :tag => s.version.to_s }
   s.source_files = 'Code'
   s.requires_arc = true
   s.ios.deployment_target = '5.0'
